@@ -29,4 +29,8 @@ public class ClientService {
     public void removeById(Long id) {
         clientRepository.deleteById(id);
     }
+
+    public void saveAll(List<Client> clientList) {
+        clientRepository.saveAll(clientList);
+    }
 }
