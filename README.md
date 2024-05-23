@@ -1,8 +1,8 @@
-API usando Spring Boot e Java 21
-Conexão com banco de dados em memoria H2 ☑
-Camadas:
-    1 - Entidade / Entity ☑ 
-    2 - Repositório / Repository ☑
-    3 - Serviço / Service ☑
-    4 - Controle / Controller ☑
-Adição do bando de dados REDIS para não onerar o relacional;
+API using Spring Boot and Java 21
+Connection to H2 in-memory database ☑
+Layers:
+    1 - Entity/Entity ☑ 
+    2 - Repository / Repository ☑
+    3 - Service / Service ☑
+    4 - Control/Controller ☑
+Addition of REDIS database to support the relational database;
